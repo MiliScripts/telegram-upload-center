@@ -82,16 +82,14 @@ This project is a **serverless file upload center** built on **Cloudflare Worker
 ---
 
 ## Screenshots
-- **Upload Page**: Drag-and-drop file upload interface.
-- **File List Page**: View and manage uploaded files.
-- **QR Code Modal**: Share files via QR codes.
+### Upload Page: Drag-and-drop file upload interface.
+![Upload Page](./upload.png)
 
+### File List Page: View and manage uploaded files.
+![File List Page](./FILES.jpg)
 ---
 
-## Support
-For questions or support, open an issue on GitHub or reach out to the maintainers.
 
----
 
 **Star the repo if you find it useful! ⭐**  
 
