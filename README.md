@@ -69,15 +69,8 @@ This project is a **serverless file upload center** built on **Cloudflare Worker
 
 ---
 
-## Step 6: Add Environment Variables
-1. In your worker's dashboard, go to **Settings** > **Variables**.
-2. Add the following environment variables:
-   - `BOT_TOKEN`: Your Telegram bot token.
-   - `CHAT_ID`: Your Telegram chat ID.
 
----
-
-## Step 7: Deploy and Test
+## Step 6: Deploy and Test
 1. Replace the default code in your worker with the provided code.
 2. Click **Save and Deploy**.
 3. Visit your worker's URL (provided in the dashboard) to access the upload center.
@@ -85,16 +78,6 @@ This project is a **serverless file upload center** built on **Cloudflare Worker
    - Upload a file.
    - View the list of uploaded files.
    - Download or delete files.
-
----
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
