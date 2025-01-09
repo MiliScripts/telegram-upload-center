@@ -11,10 +11,7 @@ This project is a **serverless file upload center** built on **Cloudflare Worker
 4. [Step 3: Get Your Telegram Chat ID](#step-3-get-your-telegram-chat-id)
 5. [Step 4: Create a Cloudflare Worker](#step-4-create-a-cloudflare-worker)
 6. [Step 5: Bind a KV Namespace](#step-5-bind-a-kv-namespace)
-7. [Step 6: Add Environment Variables](#step-6-add-environment-variables)
-8. [Step 7: Deploy and Test](#step-7-deploy-and-test)
-9. [Contributing](#contributing)
-10. [License](#license)
+7. [Step 7: Deploy and Test](#step-7-deploy-and-test)
 
 ---
 
