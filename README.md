@@ -55,7 +55,9 @@ This project is a **serverless file upload center** built on **Cloudflare Worker
 2. Name your worker (e.g., `telegram-upload-center`).
 3. Choose the **HTTP handler** template.
 4. Click **Create Service**.
-
+5. replace the worker content with workers.js
+6. replace with your token and chat id in first few lines 
+7 . deploy
 ---
 
 ## Step 5: Bind a KV Namespace
@@ -71,8 +73,6 @@ This project is a **serverless file upload center** built on **Cloudflare Worker
 
 
 ## Step 6: Deploy and Test
-1. Replace the default code in your worker with the provided code.
-2. Click **Save and Deploy**.
 3. Visit your worker's URL (provided in the dashboard) to access the upload center.
 4. Test the functionality:
    - Upload a file.
